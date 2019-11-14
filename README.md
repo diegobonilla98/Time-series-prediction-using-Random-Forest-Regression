@@ -7,4 +7,5 @@ The images show the predicted weather data (red color) and what really happened 
 
 
 ![alt text](Figure_1.png)
+This is the same one zoomed for detailed view.
 ![alt text](Figure_1_zoomed.png)
